@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Poppins;
+font-family: 'Poppins', sans-serif;
 }
 html,body{
     height: 100%;
@@ -52,7 +52,7 @@ html,body{
     letter-spacing: 0.2px;
     bottom: 3%;
      right: 21%;
-     font-family: Poppins;
+font-family: 'Poppins', sans-serif;;
   
 }
 #nav h1::after{
@@ -62,7 +62,7 @@ html,body{
     position: absolute;
     top: 14%; 
      right: 11%;
-     font-family: Poppins;
+ font-family: 'Poppins', sans-serif;
   
 }
 #nav h2{
